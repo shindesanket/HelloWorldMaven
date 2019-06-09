@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>http://3.91.231.49/var/lib/jenkins/jenkinsusers/myartifacts/</url>
+         <url>file:///var/lib/jenkins/jenkinsusers/myartifacts/</url>
        </repository>
    </distributionManagement>
 
